@@ -1,5 +1,8 @@
 _repo: Stars-of-the-southern-skies_71999
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71999-h/images/cover.jpg
 creator:
   author:
     agent_name: Orr, M. A. (Mary Acworth)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52928
     wikipedia: https://en.wikipedia.org/wiki/Mary_Acworth_Evershed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71999#Stars-of-the-southern-skies
 gutenberg_issued: '2023-11-01'
 identifiers:
   gutenberg: '71999'
